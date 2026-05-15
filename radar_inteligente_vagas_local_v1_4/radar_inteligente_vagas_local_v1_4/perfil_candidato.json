@@ -1,0 +1,39 @@
+{
+  "nome": "Alexandre Gonçalves da Silva",
+  "resumo": "Analista de Contabilidade Sênior com especialização em Gestão de Ativos Imobilizados, CAPEX, Gestão de Projetos, IFRS16, Controle Financeiro, Análise Tributária, Power BI, VBA e automação de processos.",
+  "competencias_fortes": [
+    "Ativo Imobilizado",
+    "CAPEX",
+    "IFRS16",
+    "Controladoria",
+    "Contabilidade",
+    "Power BI",
+    "Excel",
+    "VBA",
+    "Automação",
+    "AS400",
+    "SAP",
+    "Análise Tributária",
+    "Gestão de Projetos",
+    "Depreciação",
+    "Centro de Serviços Compartilhados",
+    "Relatórios Financeiros",
+    "Conciliação",
+    "Auditoria",
+    "Processos Contábeis"
+  ],
+  "preferencias": {
+    "areas": [
+      "Controladoria",
+      "Contabilidade",
+      "Financeiro",
+      "Ativo Imobilizado",
+      "CAPEX",
+      "Projetos",
+      "Fiscal",
+      "CSC"
+    ],
+    "modelos": ["híbrido", "remoto", "presencial"],
+    "senioridade": ["sênior", "especialista", "coordenador"]
+  }
+}
