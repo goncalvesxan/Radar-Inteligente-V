@@ -1,0 +1,16 @@
+{
+  "objetivo": "Modelo de mapeamento entre dados do perfil mestre e campos comuns de sites externos de candidatura.",
+  "regras": [
+    "Nunca enviar candidatura automaticamente sem revisão humana.",
+    "Nunca burlar login, captcha, paywall ou restrições do site.",
+    "Usar apenas em sites onde o candidato tem autorização para preencher seus próprios dados.",
+    "Revisar perguntas eliminatórias, pretensão salarial e disponibilidade antes do envio."
+  ],
+  "campos_comuns": {
+    "nome": ["name", "full_name", "candidate_name"],
+    "email": ["email", "candidate_email"],
+    "telefone": ["phone", "mobile", "candidate_phone"],
+    "linkedin": ["linkedin", "profile_url"],
+    "resumo": ["summary", "cover_letter", "about"]
+  }
+}
