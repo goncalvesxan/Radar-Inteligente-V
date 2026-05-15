@@ -1,0 +1,23 @@
+{
+  "personal": {
+    "first_name": "Alexandre",
+    "last_name": "Gonçalves da Silva",
+    "email": "",
+    "phone": "",
+    "city": "São Paulo",
+    "country": "Brasil",
+    "linkedin": ""
+  },
+  "professional": {
+    "current_title": "Analista de Contabilidade Sênior",
+    "summary": "Profissional com experiência em ativo imobilizado, CAPEX, IFRS16, controle financeiro, automações em Excel/VBA, Power BI e projetos de melhoria de processos contábeis.",
+    "salary_expectation": "A avaliar conforme escopo, modelo de trabalho e pacote total.",
+    "availability": "A combinar"
+  },
+  "safe_rules": {
+    "never_submit_automatically": true,
+    "review_before_sending": true,
+    "do_not_store_passwords": true,
+    "do_not_bypass_captcha": true
+  }
+}
