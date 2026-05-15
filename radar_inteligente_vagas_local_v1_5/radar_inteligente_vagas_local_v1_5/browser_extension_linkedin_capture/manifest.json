@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Radar Vagas - Captura Manual",
+  "version": "1.0",
+  "description": "Copia texto visível da página para análise local no Radar Inteligente de Vagas.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {"default_popup": "popup.html"}
+}
